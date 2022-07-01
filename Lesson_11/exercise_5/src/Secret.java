@@ -1,0 +1,3 @@
+enum Secret {
+    STAR,CRASH,START,PLANE,STAPLER,WAVE,STARTER;
+}
